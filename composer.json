@@ -22,7 +22,7 @@
         "fenguoz/data-types": "^1.0",
         "guzzlehttp/guzzle": "^7.2 || ^8.0",
         "web3p/web3.php": "^0.3",
-        "kornrunner/secp256k1": "^0.2",
+        "kornrunner/secp256k1": "^0.3",
         "simplito/elliptic-php": "^1.0",
         "ext-json": "*",
         "ext-bcmath": "*"
